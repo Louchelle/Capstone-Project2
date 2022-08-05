@@ -9,7 +9,7 @@
 ### **Use of this program:**
 - Allows a small business to manage tasks assigned to each member of the team
 
-### **The function in this program allows the user to:**
+### **The functions in this program allows the user to:**
 - Register a new user
 - Add a new task
 - View all the tasks
