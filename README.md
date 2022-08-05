@@ -1,6 +1,11 @@
 #Task Manager
 ## Level 1  Capstone Project 2
 
+### **How to run the code:**
+1. Copy and paste the code into your python IDLE app.
+2. Save the python file.
+3. Run the code in your python app
+
 ### **Use of this program:**
 - Allows a small business to manage tasks assigned to each member of the team
 
@@ -9,11 +14,6 @@
 - Add a new task
 - View all the tasks
 - View tasks assigned to a specific user
-
-### **How to run the code:**
-1. Copy and paste the code into your python IDLE app.
-2. Save the python file.
-3. Run the code in your python app
 
 ## **The tasks.txt file contains info about:**
 - The username that the task is assigned to.
